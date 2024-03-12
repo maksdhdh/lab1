@@ -1,0 +1,14 @@
+J:\C#\lab_work_1_1\lab_work_1_1\bin\Debug\net6.0\lab_work_1_1.exe
+J:\C#\lab_work_1_1\lab_work_1_1\bin\Debug\net6.0\lab_work_1_1.deps.json
+J:\C#\lab_work_1_1\lab_work_1_1\bin\Debug\net6.0\lab_work_1_1.runtimeconfig.json
+J:\C#\lab_work_1_1\lab_work_1_1\bin\Debug\net6.0\lab_work_1_1.dll
+J:\C#\lab_work_1_1\lab_work_1_1\bin\Debug\net6.0\lab_work_1_1.pdb
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.GeneratedMSBuildEditorConfig.editorconfig
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.AssemblyInfoInputs.cache
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.AssemblyInfo.cs
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.csproj.CoreCompileInputs.cache
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.dll
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\refint\lab_work_1_1.dll
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.pdb
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\lab_work_1_1.genruntimeconfig.cache
+J:\C#\lab_work_1_1\lab_work_1_1\obj\Debug\net6.0\ref\lab_work_1_1.dll
