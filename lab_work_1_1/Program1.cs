@@ -12,19 +12,10 @@ class Program2
 {
     static void Main(string[] args)
     {
-        // Read addresses from file
         List<string> addresses = ReadAddressesFromFile("addresses.txt");
-
-        // Build C1 list
         List<Tuple<string, int>> C1 = BuildC1List(addresses);
-
-        // Sort C1 list by increasing indexes
         C1.Sort((x, y) => x.Item2.CompareTo(y.Item2));
-
-        // Compress C1 list
         List<Tuple<string, int>> compressedC1 = CompressC1List(C1);
-
-        // Print compressed C1 list
         foreach (var item in compressedC1)
         {
             Console.WriteLine($"{item.Item1}: {item.Item2}");
